@@ -3,8 +3,8 @@
 ## Writing a post
 
 Posts live in `content/<year>/<slug>/index.md`, with their images in the same
-folder. They're published on [blog.akib35.dev](https://blog.akib35.dev)
-as `blog.akib35.dev/<slug>/` (and on this GitHub Pages site).
+folder. They're published on [blog.akibh.dev](https://blog.akibh.dev)
+as `blog.akibh.dev/<slug>/` (and on this GitHub Pages site).
 
 1. Copy [`_templates/sample.md`](./_templates/sample.md) to `content/<year>/<slug>/index.md`.
 2. Fill in the frontmatter: `title`, `description` (≤ 160 chars), `date` and `tags`

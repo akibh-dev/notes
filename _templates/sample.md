@@ -1,7 +1,7 @@
 ---
 # ─────────────────────────────────────────────────────────────────────────
 # POST TEMPLATE — copy to  content/<year>/<slug>/index.md  (images go in
-# the same folder). The blog (blog.akib35.dev, repo akibh-dev/akiblog)
+# the same folder). The blog (blog.akibh.dev, repo akibh-dev/akiblog)
 # validates this frontmatter at build time: a bad field fails the deploy
 # with the file + field name, so nothing broken goes live. Schema:
 # akiblog docs/ui-guide/content.config.ts. Also valid for Jekyll (layout).
