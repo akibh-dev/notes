@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Browser Rendering Reference"
-description: "How Browser renders html, css and js content"
+description: "How browsers turn HTML, CSS and JS into pixels: parsing, DOM and CSSOM, render tree, layout, paint and compositing, and what triggers a reflow or repaint."
 date: 2026-10-13
 type: guide
 tags: ["html", "web", "css", "js"]

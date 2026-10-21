@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playwright Startup Guide"
-description: "Initial steps of Playwright setup"
+description: "First steps with Playwright: the arrange-act-assert test shape, locators, actions and assertions, recording tests with codegen, and the run commands."
 date: 2026-09-22
 type: guide
 tags: ["automation", "web", "playwright"]

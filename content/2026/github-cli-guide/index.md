@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You Need Another CLI for VCS"
-description: "How do I end up using github cli"
+description: "Why I keep GitHub's gh CLI next to git: logging in and switching accounts, opening pull requests, and running Actions and secrets from the terminal."
 date: 2026-09-24
 type: guide
 tags: ["github", "cli", "secrets"]
