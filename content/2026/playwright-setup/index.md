@@ -1,13 +1,13 @@
 ---
-title: "Playwright Startup Guide"
-date: 2026-09-22
-type: "guide"
-description: "Initial steps of Playwright setup"
-tags: ["automation", "web", "playwright"]
 layout: post
+title: "Playwright Startup Guide"
+description: "Initial steps of Playwright setup"
+date: 2026-09-22
+type: guide
+tags: ["automation", "web", "playwright"]
+featured: false
+ai: none
 ---
-
-# Playwright or wrong
 
 ## Intro
 

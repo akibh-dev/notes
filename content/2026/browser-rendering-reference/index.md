@@ -1,14 +1,13 @@
 ---
-title: "Browser Rendering Reference"
-date: 2026-10-13
-type: "guide"
-description: "How Browser renders html, css and js content"
-tags: ["html", "web", "css", "js"]
 layout: post
-author: gemini
+title: "Browser Rendering Reference"
+description: "How Browser renders html, css and js content"
+date: 2026-10-13
+type: guide
+tags: ["html", "web", "css", "js"]
+featured: false
+ai: generated
 ---
-
-# Deep Technical Reference: The Browser Rendering Pipeline & Critical Rendering Path
 
 > **Comprehensive Engineering Guide for Modern Frontend Developers**  
 > *Topics covered: Navigation, DOM, CSSOM, Render Tree, Layout (Reflow), Paint (Repaint), Compositing, GPU Acceleration, Input Handling, and Performance Diagnostics.*

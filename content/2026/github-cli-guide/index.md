@@ -1,13 +1,13 @@
 ---
-title: "You Need Another CLI for VCS"
-date: 2026-09-24
-type: "guide"
-description: "How do I end up using github cli"
-tags: ["github", "cli", "secrets"]
 layout: post
+title: "You Need Another CLI for VCS"
+description: "How do I end up using github cli"
+date: 2026-09-24
+type: guide
+tags: ["github", "cli", "secrets"]
+featured: false
+ai: none
 ---
-
-# You Need Another CLI for VCS
 
 ## Git or Github
 
