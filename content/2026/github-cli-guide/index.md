@@ -11,9 +11,9 @@ ai: none
 
 ## Git or Github
 
-Disclaimer: Before we start, I am very much disgusted with `Github` and anything related to `Micro`~~slop~~ `soft` and `Copilot` and yada yada. Not because of [this](./github-up-time.png). Well if you have clicked the link there should be another *sane* hater, or you are a pure soul. Although I (*needed to*) use github; you know we do things we do not like mostly.
+Disclaimer: Before we start, I am very much disgusted with `Github` and anything related to `Micro`~~slop~~ `soft` and `Copilot` and yada yada. Not because of [their uptime chart](./github-up-time.png). Well if you have clicked the link there should be another *sane* hater, or you are a pure soul. Although I (*needed to*) use github; you know we do things we do not like mostly.
 
-The debate is little bit forced in the community git or github: both serves different aspects. Using git requires a lot of cli work mostly we have a grab on those command. I mean we do understand whats happening (*until rebase*). And we almost always use github UI for rest of the time. Now and then useless developers spends their time and provides cli for everything. And github devs are no exception but giving us cli tool `gh` instead of fixing their bugs like [this](https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh). Okay enough with this lets go to the cli.
+The debate is little bit forced in the community git or github: both serves different aspects. Using git requires a lot of cli work mostly we have a grab on those command. I mean we do understand whats happening (*until rebase*). And we almost always use github UI for rest of the time. Now and then useless developers spends their time and provides cli for everything. And github devs are no exception but giving us cli tool `gh` instead of fixing their bugs like [the Actions runner's `safe_sleep.sh`](https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh). Okay enough with this lets go to the cli.
 
 ## GH for Github
 
@@ -108,6 +108,6 @@ $ gh secrets set --env <env-name> <.env file>
 
 ```
 
-Finally, doing github actions by cli helps to use less the website, increases peace. If you need more commands or flags details; all the commands list can be found  in [here](https://cli.github.com/manual/gh). 
+Finally, doing github actions by cli helps to use less the website, increases peace. If you need more commands or flags details; all the commands list can be found in the [GitHub CLI manual](https://cli.github.com/manual/gh). 
 
 Happy Coding!!
