@@ -7,6 +7,7 @@ layout: default
 * [Playwright Startup Guide](./content/2026/playwright-setup/)
 * [GitHub CLI Guide](./content/2026/github-cli-guide/)
 * [How Browser Renders](./content/2026/browser-rendering-reference/)
+* [A billion database requests](./content/2026/billion-row-database-optimization/)
 
 <style>
   .site-footer { display: none; }
